@@ -1,3 +1,33 @@
+copyright = "©AayushShrestha"
+defaultContentLanguage = "en"
+timeout = "120s"
+
+
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Gallery'
+theme = "gallery"
+
+[params]
+defaultTheme = "dark"
+description = "Example site for hugo-theme-gallery"
+title = "My Gallery"
+
+
+[params.author]
+email = "aayushshrestha2003@gmail.com"
+name = "Aayush Shrestha"
+
+
+[params.socialIcons]
+instagram = "https://www.instagram.com/aayushtha_/"
+github = "https://github.com/Aayushstha03"
+email = "mailto:aayushshrestha2003@gmail.com"
+
+[imaging]
+quality = 75
+resampleFilter = "CatmullRom"
+[imaging.exif]
+disableDate = false
+disableLatLong = true
+includeFields = "ImageDescription"
