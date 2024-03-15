@@ -1,6 +1,6 @@
 ---
 description: These is a curated album of my favorite photos.
-# featured_image: sunset1.jpg
+featured_image: bambi.jpg
 menus: "main"
 sort_by: Name # Exif.Date
 sort_order: desc

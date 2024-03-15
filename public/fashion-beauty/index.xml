@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fashion-Beauties on Gallery</title>
+    <link>http://localhost:1313/fashion-beauty/</link>
+    <description>Recent content in Fashion-Beauties on Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>aayushshrestha2003@gmail.com (Aayush Shrestha)</managingEditor>
+    <webMaster>aayushshrestha2003@gmail.com (Aayush Shrestha)</webMaster>
+    <copyright>©AayushShrestha</copyright><atom:link href="http://localhost:1313/fashion-beauty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sunsets</title>
+      <link>http://localhost:1313/fashion-beauty/sunset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>aayushshrestha2003@gmail.com (Aayush Shrestha)</author>
+      <guid>http://localhost:1313/fashion-beauty/sunset/</guid><media:content url="http://localhost:1313/fashion-beauty/sunset/sunset1_hudb5411fdc33a1231d8ebc58fba0c5c96_3298964_900x600_fill_q75_catmullrom_smart1.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/fashion-beauty/sunset/sunset1_hudb5411fdc33a1231d8ebc58fba0c5c96_3298964_900x600_fill_q75_catmullrom_smart1.JPG&quot; /&gt;
+          &lt;p&gt;As the sun dips below the horizon, hues of tangerine and lavender stretch across the sky like an artist&#39;s canvas, casting a spell of serenity over the world. The gentle whispers of evening breeze dance with the warm, golden rays, painting a dreamscape that beckons to my soul. In the tranquil embrace of twilight, each sunset whispers secrets of endless possibility, calling me to wander into the realms of imagination and wonder.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
