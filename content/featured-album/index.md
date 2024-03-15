@@ -1,0 +1,15 @@
+---
+description: These is a curated album of my favorite photos.
+# featured_image: sunset1.jpg
+menus: "main"
+sort_by: Name # Exif.Date
+sort_order: desc
+title: Featured Album
+featured: true
+private: true
+
+#type: gallery
+weight: 3
+params:
+  theme: dark
+---
