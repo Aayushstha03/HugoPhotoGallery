@@ -1,5 +1,5 @@
 ---
-description: These is a curated album of my favorite photos.
+description: This is a curated album of my favorite photos.
 featured_image: bambi.jpg
 menus: "main"
 sort_by: Name # Exif.Date
